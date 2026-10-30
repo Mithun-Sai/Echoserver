@@ -61,6 +61,7 @@ print(f"Received {data!r}")
 ```
 
 ## OUTPUT:
+
 ### Server Output:
 <img width="592" height="117" alt="image" src="https://github.com/user-attachments/assets/640aaa33-a63b-4fc4-bb29-4f9960edab10" />
 
