@@ -63,10 +63,10 @@ print(f"Received {data!r}")
 ## OUTPUT:
 
 ### Server Output:
-<img width="592" height="117" alt="image" src="https://github.com/user-attachments/assets/640aaa33-a63b-4fc4-bb29-4f9960edab10" />
+![server](img/image1.png)
 
 ### Client Output:
-<img width="587" height="123" alt="image" src="https://github.com/user-attachments/assets/f356d53f-fdd6-48b8-9f07-216cc3b7f547" />
+![client](img/image2.png)
 
 ## RESULT:
 The program is executed successfully
